@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="configclientapp" />
+        <module name="configclientapprefresh" />
+        <module name="configserver" />
+        <module name="consumer" />
+        <module name="consumer-without-eureka" />
+        <module name="consumerfeign" />
+        <module name="consumerfeignhystrix" />
+        <module name="consumerfeignmanl" />
+        <module name="eurekaserver" />
+        <module name="eurekaserverha" />
+        <module name="gatewayzuul" />
+        <module name="gatewayzuulaggretion" />
+        <module name="hystrixdashborad" />
+        <module name="product" />
+        <module name="productauth" />
+        <module name="sidecar" />
+        <module name="zipkinserver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="configclientapp" target="1.8" />
+      <module name="configclientapprefresh" target="1.8" />
+      <module name="configserver" target="1.8" />
+      <module name="consumer" target="1.8" />
+      <module name="consumer-without-eureka" target="1.8" />
+      <module name="consumerfeign" target="1.8" />
+      <module name="consumerfeignhystrix" target="1.8" />
+      <module name="consumerfeignmanl" target="1.8" />
+      <module name="eurekaserver" target="1.8" />
+      <module name="eurekaserverha" target="1.8" />
+      <module name="gatewayzuul" target="1.8" />
+      <module name="gatewayzuulaggretion" target="1.8" />
+      <module name="hystrixdashborad" target="1.8" />
+      <module name="product" target="1.8" />
+      <module name="productauth" target="1.8" />
+      <module name="sidecar" target="1.8" />
+      <module name="springcloud-parent" target="1.8" />
+      <module name="zipkinserver" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

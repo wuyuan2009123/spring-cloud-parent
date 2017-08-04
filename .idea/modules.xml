@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configclientapp/configclientapp.iml" filepath="$PROJECT_DIR$/configclientapp/configclientapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configclientapprefresh/configclientapprefresh.iml" filepath="$PROJECT_DIR$/configclientapprefresh/configclientapprefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer/consumer.iml" filepath="$PROJECT_DIR$/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumerwithouteureka/consumer-without-eureka.iml" filepath="$PROJECT_DIR$/consumerwithouteureka/consumer-without-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumerfeign/consumerfeign.iml" filepath="$PROJECT_DIR$/consumerfeign/consumerfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumerfeignhystrix/consumerfeignhystrix.iml" filepath="$PROJECT_DIR$/consumerfeignhystrix/consumerfeignhystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumerfeignmanl/consumerfeignmanl.iml" filepath="$PROJECT_DIR$/consumerfeignmanl/consumerfeignmanl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserverha/eurekaserverha.iml" filepath="$PROJECT_DIR$/eurekaserverha/eurekaserverha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gatewayzuul/gatewayzuul.iml" filepath="$PROJECT_DIR$/gatewayzuul/gatewayzuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gatewayzuulaggretion/gatewayzuulaggretion.iml" filepath="$PROJECT_DIR$/gatewayzuulaggretion/gatewayzuulaggretion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrixdashborad/hystrixdashborad.iml" filepath="$PROJECT_DIR$/hystrixdashborad/hystrixdashborad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product.iml" filepath="$PROJECT_DIR$/product/product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productauth/productauth.iml" filepath="$PROJECT_DIR$/productauth/productauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sidecar/sidecar.iml" filepath="$PROJECT_DIR$/sidecar/sidecar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-parent.iml" filepath="$PROJECT_DIR$/springcloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zipkinserver/zipkinserver.iml" filepath="$PROJECT_DIR$/zipkinserver/zipkinserver.iml" />
+    </modules>
+  </component>
+</project>
