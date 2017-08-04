@@ -1,9 +1,0 @@
-eurekaserver:
- image: wuyuan-productauth:latest
- ports:
-  - 8761:8761
- volumes:
-  - /temp:/temp
- environment:
-  - JAVA_OPTS="-Xms500m -Xmx800m"
- command: bash -c "java -jar /app.jar"
