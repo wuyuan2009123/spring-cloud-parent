@@ -23,5 +23,9 @@ services:
       - "7901:7901"
   hystrixdashborad:
     image: wuyuan-hystrixdashborad
+    ports:
+      - "8030:8030"
   gatewayzuul:
     image: wuyuan-gatewayzuul
+    ports:
+      - "8040:8040"
