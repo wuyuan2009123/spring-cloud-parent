@@ -13,10 +13,14 @@ services:
     environment:
       - spring.profiles.active=peer2
 
-  consumerfeignhystrix:
-    image: wuyuan-consumerfeignhystrix
   product:
     image: wuyuan-product
+    ports:
+      - "7900:7900"
+  consumerfeignhystrix:
+    image: wuyuan-consumerfeignhystrix
+    ports:
+      - "7901:7901"
   hystrixdashborad:
     image: wuyuan-hystrixdashborad
   gatewayzuul:
